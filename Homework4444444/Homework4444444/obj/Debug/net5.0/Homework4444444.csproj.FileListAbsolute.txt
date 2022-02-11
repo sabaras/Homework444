@@ -1,0 +1,15 @@
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.csproj.AssemblyReference.cache
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.AssemblyInfoInputs.cache
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.AssemblyInfo.cs
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.csproj.CoreCompileInputs.cache
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/Homework4444444.deps.json
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/Homework4444444.runtimeconfig.json
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/Homework4444444.runtimeconfig.dev.json
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/Homework4444444.dll
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/ref/Homework4444444.dll
+/Users/macbook/Homework444/Homework4444444/Homework4444444/bin/Debug/net5.0/Homework4444444.pdb
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.dll
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/ref/Homework4444444.dll
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.pdb
+/Users/macbook/Homework444/Homework4444444/Homework4444444/obj/Debug/net5.0/Homework4444444.genruntimeconfig.cache
